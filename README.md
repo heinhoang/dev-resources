@@ -8,6 +8,8 @@
   - https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/
 * Infinite scroll
   - https://codepen.io/heinhoang/pen/eYvyRWo
+* Chat
+  - https://github.com/chatscope/chat-ui-kit-react
 
 ## Angular
 * Themes
