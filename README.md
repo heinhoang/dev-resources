@@ -2,6 +2,8 @@
 ## JS
 * Access Device Hardware using JavaScript
   - WebHID, WebNFC, WebUSB: https://blog.bitsrc.io/new-standards-to-access-user-device-hardware-using-javascript-86b0c156dd3d
+* Testing
+  - https://css-tricks.com/front-end-testing-is-for-everyone/
 
 ## React
 * Richtext editor
