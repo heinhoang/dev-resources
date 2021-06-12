@@ -16,3 +16,5 @@
 ## Angular
 * Themes
   - https://github.com/ng-matero/ng-matero
+* Table
+  - https://github.com/swimlane/ngx-datatable
