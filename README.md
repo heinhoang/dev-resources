@@ -12,6 +12,8 @@
   - https://codepen.io/heinhoang/pen/eYvyRWo
 * Chat
   - https://github.com/chatscope/chat-ui-kit-react
+* Table
+  - https://autodesk.github.io/react-base-table/examples/infinite-loading-loader
 
 ## Angular
 * Themes
