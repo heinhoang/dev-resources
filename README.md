@@ -23,7 +23,7 @@
 
 ## git
 * Unstage a file
-   - `git rm --cached <filePath>`, `git reset -- <filePath>` https://stackoverflow.com/a/6919257
+   - commited: `git rm --cached <filePath>`, not committed: `git reset -- <filePath>` https://stackoverflow.com/a/6919257
 * change commit message
    - `git rebase -i HEAD~3` https://stackoverflow.com/a/50386951
    - `git commit --amend`
