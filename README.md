@@ -20,3 +20,10 @@
   - https://github.com/ng-matero/ng-matero
 * Table
   - https://github.com/swimlane/ngx-datatable
+
+## git
+* Unstage a file
+   - `git rm --cached <filePath>`, `git reset -- <filePath>` https://stackoverflow.com/a/6919257
+* change commit message
+   - `git rebase -i HEAD~3` https://stackoverflow.com/a/50386951
+   - `git commit --amend`
