@@ -34,3 +34,4 @@
 ## AI
   - https://github.com/bbc/react-transcript-editor
   - https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/
+  - https://handsfree.js.org/
