@@ -30,3 +30,7 @@
 * change commit message
    - `git rebase -i HEAD~3` https://stackoverflow.com/a/50386951
    - `git commit --amend`
+
+## AI
+  - https://github.com/bbc/react-transcript-editor
+  - https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/
