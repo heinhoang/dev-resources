@@ -45,3 +45,6 @@
 ## Go
   - Realtime
     - https://livekit.io/
+
+## Opesource
+  - https://www.btw.so/open-source-alternatives?ref=producthunt
