@@ -23,6 +23,8 @@
 * Table
   - https://github.com/wellyshen/react-cool-virtual
   - https://autodesk.github.io/react-base-table/examples/infinite-loading-loader
+* Camera
+  - https://github.com/mozmorris/react-webcam 
 
 ## Angular
 * Themes
