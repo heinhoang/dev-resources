@@ -22,6 +22,7 @@
   - https://github.com/chatscope/chat-ui-kit-react
 * Table
   - https://github.com/wellyshen/react-cool-virtual
+  - https://github.com/petyosi/react-virtuoso
   - https://autodesk.github.io/react-base-table/examples/infinite-loading-loader
 * Camera
   - https://github.com/mozmorris/react-webcam 
