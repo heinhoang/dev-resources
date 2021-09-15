@@ -52,5 +52,8 @@
   - Realtime
     - https://livekit.io/
 
+## HTTP
+  - https://requestly.io/
+
 ## Opesource
   - https://www.btw.so/open-source-alternatives?ref=producthunt
