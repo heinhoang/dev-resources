@@ -25,7 +25,10 @@
   - https://github.com/petyosi/react-virtuoso
   - https://autodesk.github.io/react-base-table/examples/infinite-loading-loader
 * Camera
-  - https://github.com/mozmorris/react-webcam 
+  - https://github.com/mozmorris/react-webcam
+
+* React native
+  - https://github.com/mmazzarolo/react-native-universal-monorepo (https://mmazzarolo.com/blog/2021-09-11-running-react-native-everywhere/)
 
 ## Angular
 * Themes
