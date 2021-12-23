@@ -54,6 +54,10 @@
 
 ## Bootstrap
   - https://github.com/themesberg/pixel-bootstrap-ui-kit/
+  - https://github.com/mdbootstrap/mdb-ui-kit
+  - https://github.com/tabler/tabler
+   - https://preview.tabler.io/layout-fluid-vertical.html
+  - https://github.com/coreui/coreui
 
 ## git
 * Unstage a file
