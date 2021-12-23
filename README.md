@@ -47,6 +47,10 @@
 * Table
   - https://github.com/swimlane/ngx-datatable
 
+## Vue
+* Themes
+  - https://github.com/epicmaxco/vuestic-admin
+
 ## git
 * Unstage a file
    - commited: `git rm --cached <filePath>`, not committed: `git reset -- <filePath>` https://stackoverflow.com/a/6919257
