@@ -3,6 +3,7 @@
 ## CSS
 * Animation
   - https://animista.net/
+  - http://kristofferandreasen.github.io/wickedCSS/#
 * Hamberger Menu
   - https://github.com/tamino-martinius/ui-snippets-menu-animations
   - https://march08.github.io/animated-burgers/
