@@ -52,6 +52,9 @@
 * Themes
   - https://github.com/epicmaxco/vuestic-admin
 
+## Bootstrap
+  - https://github.com/themesberg/pixel-bootstrap-ui-kit/
+
 ## git
 * Unstage a file
    - commited: `git rm --cached <filePath>`, not committed: `git reset -- <filePath>` https://stackoverflow.com/a/6919257
