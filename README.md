@@ -1,4 +1,12 @@
 # Dev Resources
+
+## CSS
+* Animation
+  - https://animista.net/
+* Hamberger Menu
+  - https://github.com/tamino-martinius/ui-snippets-menu-animations
+  - https://march08.github.io/animated-burgers/
+
 ## JS
 * Access Device Hardware using JavaScript
   - WebHID, WebNFC, WebUSB: https://blog.bitsrc.io/new-standards-to-access-user-device-hardware-using-javascript-86b0c156dd3d
@@ -6,6 +14,8 @@
   - https://css-tricks.com/front-end-testing-is-for-everyone/
 * Slider
   - https://swiperjs.com/
+* Filter
+  - https://isotope.metafizzy.co/
 * Realtime
    - https://livekit.io/
 * Image
