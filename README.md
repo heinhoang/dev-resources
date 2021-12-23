@@ -23,6 +23,7 @@
   - https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/
 * Themes
   - https://github.com/uilibrary/matx-react
+  - https://github.com/codedthemes/berry-free-react-admin-template/
 * Infinite scroll
   - https://codepen.io/heinhoang/pen/eYvyRWo
 * Chat
