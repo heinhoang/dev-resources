@@ -72,7 +72,7 @@
       - https://preview.tabler.io/layout-fluid-vertical.html
     - https://github.com/coreui/coreui
     
-##NextJS
+## NextJS
     - https://themefisher.com/nextjs-templates
 
 ## git
