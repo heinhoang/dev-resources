@@ -95,6 +95,8 @@
 ## Nodejs
   - Boiler plates
      - https://github.com/bahricanyesil/nodejs-starter-template
+  - Nodejs + Typescript
+     - https://github.com/saisilinus/node-express-mongoose-typescript-boilerplate
   - MERN starter
      - https://github.com/mernjs/create-mern-app
   - Serverless Framework Boilerplate
