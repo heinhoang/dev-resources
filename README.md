@@ -78,6 +78,7 @@
 ## NestJS
      - https://github.com/NarHakobyan/awesome-nest-boilerplate
      - https://github.com/WildEgor/nestjs-microservice-boilerplate
+     - https://github.com/hebertcisco/nestjs-microservices-rabbitmq
 
 ## git
 * Unstage a file
