@@ -73,7 +73,7 @@
     - https://github.com/coreui/coreui
     
 ## NextJS
-    - https://themefisher.com/nextjs-templates
+     - https://themefisher.com/nextjs-templates
 
 ## git
 * Unstage a file
