@@ -79,6 +79,7 @@
      - https://github.com/NarHakobyan/awesome-nest-boilerplate
      - https://github.com/WildEgor/nestjs-microservice-boilerplate
      - https://github.com/hebertcisco/nestjs-microservices-rabbitmq
+     - https://github.com/andrechristikan/ack-nestjs-boilerplate-kafka
 
 ## git
 * Unstage a file
