@@ -116,6 +116,8 @@
      - https://github.com/ixartz/Serverless-Boilerplate-Express-TypeScript
   - Relay starter
      - https://github.com/kriasoft/relay-starter-kit
+  - Opensource Apps
+    - https://github.com/medusajs/medusa
 
 ## Go
   - Realtime
