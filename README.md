@@ -62,6 +62,9 @@
 ## Vue
 * Themes
   - https://github.com/epicmaxco/vuestic-admin
+  
+## Tailwind
+  - https://tailadmin.com/
 
 ## Bootstrap
   - Themes
