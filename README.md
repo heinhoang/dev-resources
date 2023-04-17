@@ -33,6 +33,7 @@
 * Richtext editor
   - https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/
 * Themes
+  - https://www.tremor.so/
   - https://github.com/uilibrary/matx-react
   - https://github.com/codedthemes/berry-free-react-admin-template/
 * Infinite scroll
