@@ -126,3 +126,6 @@
 
 ## Opesource
   - https://www.btw.so/open-source-alternatives?ref=producthunt
+
+## Debuger for backend
+  - https://github.com/runsidekick/sidekick
