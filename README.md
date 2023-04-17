@@ -125,7 +125,8 @@
   - https://requestly.io/
 
 ## Opesource
-  - https://www.btw.so/open-source-alternatives?ref=producthunt
+  - https://www.btw.so/open-source-alternatives
+  - https://opensource.builders/
 
 ## Debuger for backend
   - https://github.com/runsidekick/sidekick
