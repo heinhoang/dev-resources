@@ -118,6 +118,10 @@
      - https://github.com/kriasoft/relay-starter-kit
   - Opensource Apps
     - https://github.com/medusajs/medusa
+   
+## Laravel
+  - Opensource Apps
+    - https://github.com/akaunting/akaunting
 
 ## Go
   - Realtime
