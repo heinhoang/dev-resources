@@ -132,3 +132,6 @@
 
 ## Debuger for backend
   - https://github.com/runsidekick/sidekick
+  
+## Devops
+  - https://github.com/devops4solutions
