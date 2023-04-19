@@ -118,6 +118,7 @@
      - https://github.com/kriasoft/relay-starter-kit
   - Opensource Apps
     - https://github.com/medusajs/medusa
+    - https://adminjs.co/
    
 ## Laravel
   - Opensource Apps
