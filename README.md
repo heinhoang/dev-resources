@@ -1,4 +1,4 @@
-# Dev Resources 
+# Dev Resources
 
 ## CSS
 * Animation
